@@ -7,7 +7,7 @@
 
 body {
     background-color: wheat;
-    background-image: url("images/4.jpg");
+    background-image: url("../Lovey/4.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -111,5 +111,6 @@ footer{
     height: auto;
 
 }
+
 
 
